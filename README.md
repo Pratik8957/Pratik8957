@@ -1,7 +1,7 @@
 <!-- <div align="center">
 <img src="https://towardsdatascience.com/wp-content/uploads/2020/12/0seusRQCGcbB7aZ60-2048x1152.jpg" align="center" style="width: 100%" />
 </div>   -->
- ## <<div align="center">💫 About Me: </div>
+ ## <div align="center">💫 About Me: </div>
  I'm Pratik Singh a passionate engineering student currently pursuing my B. tech at KIET group of Institution, Ghaziabad . I have a strong interest in software development and programming and I'm continuously working to enhance my technical skills. 
 I am proficient in programming languages, I enjoy learning new technologies and applying them to real-world projects. I am passionate about building a strong foundation in coding and problem-solving, am I excited to contribute to the tech industry with innovative ideas and solutions.
  
