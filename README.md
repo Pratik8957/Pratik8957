@@ -89,7 +89,7 @@
 <a href="https://twitter.com/https://x.com/PratikS83251006?t=qH2osscTiL2hT9MHopunuA&s=09" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-singh-4b7605326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<a href="https://www.linkedin.com/in/pratik-singh-4b7605326/">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/___pratik__singh_?igsh=cm9ubjgyaDAzeGhr" target="_blank">
