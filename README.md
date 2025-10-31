@@ -21,7 +21,7 @@ I am proficient in programming languages, I enjoy learning new technologies and 
 <br/>  
 
 
-## My Skill Set  
+## 💻 Tech Stack: 
 <table><tr><td valign="top" width="33%">
 
 
