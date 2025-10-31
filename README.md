@@ -2,23 +2,14 @@
 <img src="https://towardsdatascience.com/wp-content/uploads/2020/12/0seusRQCGcbB7aZ60-2048x1152.jpg" align="center" style="width: 100%" />
 </div>   -->
  ## <div align="center">💫 About Me: </div>
- I'm Pratik Singh a passionate engineering student currently pursuing my B. tech at KIET group of Institution, Ghaziabad . I have a strong interest in software development and programming and I'm continuously working to enhance my technical skills. 
-I am proficient in programming languages, I enjoy learning new technologies and applying them to real-world projects. I am passionate about building a strong foundation in coding and problem-solving, am I excited to contribute to the tech industry with innovative ideas and solutions.
- 
+ I’m Pratik Singh, an engineering student currently pursuing my B.Tech at KIET Group of Institutions, Ghaziabad.
+I am passionate about software development and cloud technologies, with a strong focus on building a solid foundation in programming and problem-solving.
 
-### <div align="center">I'm Pratik, a Software Developer 👨‍💻 and Problem Solver 🚀</div>  
-  
+I actively explore modern tools, technologies, and best practices to enhance my technical expertise and contribute meaningfully to real-world projects. I believe in continuous learning and strive to grow through hands-on experience and innovation.
 
-- 🌱 Learning everyday, building meaningful projects .  
-  
-
-- 🌱 I’m currently learning AWS Cloud and improving my hands-on skills every day.  
-  
-
-- ❓ Ask me about AWS basics — happy to discuss and learn together!  
-  
-
-<br/>  
+🌱 Currently Learning: AWS Cloud — building practical skills in core services & cloud architecture
+💬 Feel free to ask me about: AWS fundamentals and cloud concepts — always open to learning and knowledge-sharing
+🎯 Career Goal: To develop scalable, efficient solutions and grow as a cloud and software professional
 
 
 ## 💻 Tech Stack: 
