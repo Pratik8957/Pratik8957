@@ -4,12 +4,11 @@
  ## <div align="center">💫 About Me: </div>
  I’m Pratik Singh, an engineering student currently pursuing my B.Tech at KIET Group of Institutions, Ghaziabad.
 I am passionate about software development and cloud technologies, with a strong focus on building a solid foundation in programming and problem-solving.
-
 I actively explore modern tools, technologies, and best practices to enhance my technical expertise and contribute meaningfully to real-world projects. I believe in continuous learning and strive to grow through hands-on experience and innovation.
-
 🌱 Currently Learning: AWS Cloud — building practical skills in core services & cloud architecture
 💬 Feel free to ask me about: AWS fundamentals and cloud concepts — always open to learning and knowledge-sharing
-🎯 Career Goal: To develop scalable, efficient solutions and grow as a cloud and software professional
+🎯 Career Goal: To develop scalable, efficient solutions and grow as a software professional.
+
 
 
 ## 💻 Tech Stack: 
@@ -100,22 +99,6 @@ I actively explore modern tools, technologies, and best practices to enhance my 
 
 <br/>  
 
-
-
-  
-
-<!-- <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Pratik8957&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
