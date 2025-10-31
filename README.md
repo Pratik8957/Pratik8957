@@ -5,8 +5,7 @@
  I’m Pratik Singh, an engineering student currently pursuing my B.Tech at KIET Group of Institutions, Ghaziabad.
 I am passionate about software development and cloud technologies, with a strong focus on building a solid foundation in programming and problem-solving.
 I actively explore modern tools, technologies, and best practices to enhance my technical expertise and contribute meaningfully to real-world projects. I believe in continuous learning and strive to grow through hands-on experience and innovation.
-
-🌱 Currently Learning: AWS Cloud — building practical skills in core services & cloud architecture
+🌱 Currently learning AWS Cloud and developing hands-on skills in core services and cloud architecture.
 💬 Feel free to ask me about: AWS fundamentals and cloud concepts — always open to learning and knowledge-sharing
 🎯 Career Goal: To develop scalable, efficient solutions and grow as a software professional.
 
