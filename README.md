@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://towardsdatascience.com/wp-content/uploads/2020/12/0seusRQCGcbB7aZ60-2048x1152.jpg" align="center" style="width: 100%" />
-</div>  
+</div>   -->
   
 
 ### <div align="center">I'm Pratik, a Software Developer 👨‍💻 and Problem Solver 🚀</div>  
